@@ -521,7 +521,7 @@ def TituloYIsbn():
 def Reportes():
     while True:
         print()
-        print("*****Reportes*****")
+        print("******Reportes******")
         print("*1* Catalago completo")
         print("*2* Reporte por autor")
         print('*3* Reporte por genero')
